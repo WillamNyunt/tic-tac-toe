@@ -4,5 +4,5 @@ Core concepts learnt from this tutorial:
    const [isActive, setIsActive] = useState(false)
 
     setIsActive(active => !active)  // this schedules the reverse of active in the state update
-
 - Objects and Arrays are reference types. When cloning them use the spread operator to assign a new version of these types to prevent mutating the origional value.
+- Try to derive from a state rather than adding unnessesary states.
