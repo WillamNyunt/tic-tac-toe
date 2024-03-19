@@ -1,3 +1,8 @@
+To start the projct:
+run npm install.
+Then 'npm run dev'
+
+
 Core concepts learnt from this tutorial:
 
 - When editing state from old state, make sure you add it in a function e.g:
